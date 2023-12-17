@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "ScaleHelper",
+	"Description": "ScaleHelper allows you to scale the entire Editor Just edit the multiplier and recompile!",
+	"Category": "Editor",
+	"CreatedBy": "Odin Vex",
+	"CreatedByURL": "https://github.com/OdinVex/ScaleHelper",
+	"DocsURL": "https://github.com/OdinVex/ScaleHelper/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/OdinVex/ScaleHelper/issues",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ScaleHelper",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Linux",
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
